@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#131313</color>
+    <color name="primaryDark">#1C1C1C</color>
+    <color name="accent">#000000</color>
+    <color name="buttonText">#FFFFFF</color>
+    <color name="deviceText">#FFFFFF</color>
+    <color name="deviceItemBackground">#333333</color>
+    <color name="background">#000000</color>
+    <color name="gradientOne">#000000</color>
+    <color name="gradientTwo">#131104</color>
+</resources>
